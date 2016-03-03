@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+background-image: url("http://web.engr.oregonstate.edu/~petleya/background.jpg");
+}
+form{
+ background-color:#FFFFFF;
+ border:ridge;
+ margin-left: 250px;
+ margin-right: 250px;
+}
+p{
+	padding-left:300px;
+}

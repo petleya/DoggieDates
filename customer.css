@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+background-image: url("http://web.engr.oregonstate.edu/~petleya/background.jpg");
+}
+#map-canvas {
+  width:500px;
+  height:400px; 
+}
+#MessCenter{
+  background-color:#B0CDE8;
+  padding: 1cm 1cm 1cm 1cm;
+  border:ridge;
+  }
+#message{
+  background-color:#FFFFFF;
+  border:ridge;
+}
+#zip{
+  border:ridge;
+  background-color:#B0CDE8;
+}
+table{
+  border:medium;
+  
+}
+td {
+  border: solid thin;
+  background-color:#FFFFFF;
+}
+th{
+	border: solid thin;
+	background-color:#FFFFFF;
+	}
+#resources{
+   border:ridge;
+   float:right;
+   background-color:#FFFFFF;
+   margin-right:100px;
+   margin-top:4cm;
+   padding-left: 1cm;
+   padding-right:1cm;
+   padding-top:1cm;
+   padding-bottom:1cm;
+}
+#m{
+   margin-left: 100px;
+   margin-right: 600px;
+   padding-left: 1cm;
+   padding-right:1cm;
+   padding-top:1cm;
+   padding-bottom:1cm;
+   background-color:#9FC0B5;
+   border:ridge
+}
